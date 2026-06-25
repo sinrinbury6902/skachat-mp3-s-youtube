@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Скачать MP3 с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/skachat-mp3-s-youtube)
+[![Скачать MP3 с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/skachat-mp3-s-youtube)
 
 </div>
 
@@ -109,7 +109,7 @@
 7. **🎧 Выберите качество** — 320kbps для лучшего звука
 8. **💾 Нажмите "Скачать MP3"**
 
-[![Скачать MP3 с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/skachat-mp3-s-youtube)
+[![Скачать MP3 с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/skachat-mp3-s-youtube)
 
 ### Скачивание плейлиста
 
@@ -195,7 +195,7 @@
 
 <div align="center">
 
-[![Скачать MP3 с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/skachat-mp3-s-youtube)
+[![Скачать MP3 с YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/skachat-mp3-s-youtube)
 
 **Версия 4.6.1** — Загрузчик MP3 с YouTube. Навсегда бесплатно.
 
